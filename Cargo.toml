@@ -10,4 +10,4 @@ Parser for Tor configuration files.
 """
 
 [dependencies]
-nom = "~0.3.0"
+nom = "~1.0.0"
